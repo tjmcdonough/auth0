@@ -1,0 +1,14 @@
+{
+  "name": "auth0-web3",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "auth0-js": "^9.19.1"
+  }
+}
